@@ -1,6 +1,6 @@
 # Task_1_Predicting-student-scores-based-on-hours-of-study.ipynb
-Predicting score percentage of a student based on hours of study per day.
-This task is undertaken as a part of internship program with Spark Foundation under GRIP - Graduate Rotational Internship Program
+Predicting score percentage of a student based on hours of study per day.  
+This task is undertaken as a part of internship program with Spark Foundation under GRIP - Graduate Rotational Internship Program.
 
 ### Problem Statement
 
